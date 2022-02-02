@@ -99,3 +99,16 @@ body {
     text-align: center;
     padding-left: 0px;
   }
+
+  .description {
+    background: white;
+    box-shadow: 0 10px 30px rgba(0,0,0,.1);
+    margin: 30 auto;
+    padding: 60px;
+  }
+
+  #nature {
+    height: 250px;
+    width: 250px;
+    border-radius: 0%;
+  }
